@@ -79,3 +79,7 @@
 ### [Sessions](webdriver/sessions.md)
 ### [Window](webdriver/window.md)
 ## [EDP Sample](sample.md)
+### [Sample Domain](edp-docs/domain/sample.md)
+#### [Types](edp-docs/domain/sampletypes.md)
+#### [Commands](edp-docs/domain/samplecommands.md)
+#### [Events](edp-docs/domain/sampleevents.md)
